@@ -1,7 +1,16 @@
-# very silly thing
-in collab with zoid
+# VtuberThing
+A work in progress VTubing program and model editor.
 
-yea
+## Planned Features
+- 2d/3d (Pngtuber/3d Vtuber) Model Support
+- Physics
+- Throwables
+
+# What won't be there
+- Importing Live2d models
+- yea
+
+--- 
 
 <h2 align="center">
     Contributors<br><br>
