@@ -1,5 +1,6 @@
 # VtuberThing
 A work in progress VTubing program and model editor.
+Woops it uses Python now so people can do smarter stuff with it than GDScript.
 
 ## Planned Features
 - 2d/3d (Pngtuber/3d Vtuber) Model Support
@@ -14,7 +15,7 @@ A work in progress VTubing program and model editor.
 
 <h2 align="center">
     Contributors<br><br>
-    <a href="https://github.com/RazuProject/RazuProject.github.io/graphs/contributors">
+    <a href="https://github.com/JaegerwaldDev/VtubingThing/graphs/contributors">
         <img src="https://contrib.rocks/image?repo=JaegerwaldDev/VtubingThing" />
     </a>
 </h2>
