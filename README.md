@@ -1,11 +1,16 @@
 # VtuberThing
 A work in progress VTubing program and model editor.
-Woops it uses Python now so people can do smarter stuff with it than GDScript.
 
 ## Planned Features
 - 2d/3d (Pngtuber/3d Vtuber) Model Support
 - Physics
 - Throwables
+- WebCam tracking
+
+## Goals
+- Be accessible to new users.
+- Have same, or simelar amount of features compared to Cubism.
+- Overall nicer, modern, and understandable GUI.
 
 # What won't be there
 - Importing Live2d models
