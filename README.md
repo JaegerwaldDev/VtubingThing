@@ -1,4 +1,4 @@
-# VtuberThing
+# VtubingThing
 A work in progress VTubing program and model editor.
 
 ## Planned Features
@@ -14,7 +14,6 @@ A work in progress VTubing program and model editor.
 
 # What won't be there
 - Importing Live2d models
-- yea
 
 --- 
 
